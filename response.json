@@ -1,8 +1,8 @@
 {
-  "222": "This is the first sms that I can Generate",
-  "223": "This is the first sms that I can Generate",
-  "224": "This is the first sms that I can Generate",
-  "225": "This is the first sms that I can Generate",
-  "226": "This is the first sms that I can Generate",
-  "2w3": "This is the first sms that I can Generate"
+  "records":[
+    {"id":"226","Customer_number":"+923335632415","msg":"Hello there is a small sms"},
+    {"id":"227","Customer_number":"+923335632416","msg":"Hello there is a small sms"},
+    {"id":"228","Customer_number":"+923335632417","msg":"Hello there is a small sms"},
+    {"id":"229","Customer_number":"+923335632419","msg":"Hello there is a small sms"}
+    ]
 }
